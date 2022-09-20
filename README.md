@@ -7,4 +7,4 @@
 ## Traducción automática neuronal pa les llingües romániques de la península Ibérica
 ## Traducción automática neuronal para as linguas romances da Península Ibérica
 
-Project's Wiki
+[Project's Wiki](https://github.com/aoliverg/TAN-IBE/wiki)
